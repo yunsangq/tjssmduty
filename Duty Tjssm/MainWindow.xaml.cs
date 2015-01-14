@@ -77,6 +77,7 @@ namespace Duty_Tjssm
             tbt12.TextChanged += tbt12_TextChanged;
             tbt13.TextChanged += tbt12_TextChanged;
             this.Height = SystemParameters.PrimaryScreenHeight - 70;
+            this.Top = 10;            
         }
 
         //void btnNameinput_Click(object sender, RoutedEventArgs e)
